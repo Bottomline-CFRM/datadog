@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Mainframe Record and Replay solution has the capability of monitoring 3270/5250 Users noninvasivily via network traffic . The integration comes pre-built with fully customizable dashboards that bring the most crucial information on user activity and system performance to the surface. 
+The Mainframe Record and Replay solution has the capability of monitoring 3270/5250 Users noninvasivily via network traffic .The integration comes pre-built with fully customizable dashboards that bring the most crucial information on user activity and system performance to the surface. 
 
 ### Monitors
 
@@ -48,7 +48,7 @@ The following items are all required for this integration to run as intended:
 
 If you have just purchased Bottomline's Record and Replay, a representative will reach out to your shortly with a license key and instructions to set up your environment.
 
-If you need to set up an integration so that data is shared between Datadog and Bottomline, [click here](/account/settings#integrations/bottomline).
+If you need to set up an integration so that data is shared between Datadog and Bottomline, [click here](https://github.com/nbk96f1/datadog/tree/main/Documentation).
 
 ## Support
 For support or feature requests, contact Bottomline through the following channels:
