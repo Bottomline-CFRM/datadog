@@ -15,7 +15,7 @@ The Mainframe Record and Replay solution has the capability of monitoring 3270/5
 1. Bottomline Record and Replay Overview
 
 ### On-Premise Pricing
-##### *Bottomline Hosted and Volume pricing is only available upon request through a private offer*
+##### *Bottomline Volume pricing is only available upon request through a private offer*
 | Units | Discount % | Cost/Unit |
 |---|---|---|
 | 1 - 1000 | 0% | $4.68 |
