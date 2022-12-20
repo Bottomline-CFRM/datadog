@@ -29,7 +29,7 @@ The Mainframe Record and Replay solution has the capability of monitoring 3270/5
 | 20001 - 35000 | 79% | $0.96 |
 | 35001 - 50000 | 83% | $0.80 |
 | 50001 - 100000 | 90% | $0.47 |
-| 100000 + | Variable | Contact [Andrew.Leon@bottomline.com](mailto:Andrew.Leon@bottomline.com) for more information or private offers.
+| 100000 + | Variable | Contact [partner.cfrm@bottomline.com](mailto:partner.cfrm@bottomline.com) for more information or private offers.
 
 ## Setup
 
@@ -53,8 +53,8 @@ If you need to set up an integration so that data is shared between Datadog and 
 ## Support
 For support or feature requests, contact Bottomline through the following channels:
 
-- Support: Andrew.Leon@bottomline.com
-- Sales: Andrew.Leon@bottomline.com
+- Support: partner.cfrm@bottomline.com
+- Sales: partner.cfrm@bottomline.com
 
 [1]: https://www.bottomline.com/
 
