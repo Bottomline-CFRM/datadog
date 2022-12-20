@@ -2,20 +2,20 @@
 
 ## Overview
 
-The Mainframe Record and Replay solution has the capability of monitoring 3270/5250 Users noninvasivily via network traffic .The integration comes pre-built with fully customizable dashboards that bring the most crucial information on user activity and system performance to the surface. 
+Bottomline's Mainframe Record and Replay is a non-invasive solution that allows you to monitor 3270/5250 users via network traffic. Bottomline helps monitor users and systems in advanced ways with industry-leading fraud and financial crime solutions.
 
-### Monitors
+After purchasing a license to Bottomline from the Datadog Marketplace, you can monitor the following information with our out-of-the-box [integration][3]:
 
-1. Mainframe Users: Record and Replay the users session and log information about what the user did in the session.
-2. Mainframe: User Response Time
-3. Mainframe: Resource Response Time 
+### Monitoring Capabilities
 
-### Dashboards
+- Mainframe Users: Record, replay the user session, and log information about what the user did in the session.
+- Mainframe: User Response Time, Resource Response Time
 
-1. Bottomline Record and Replay Overview
+### Pricing
+**Bottomline Volume pricing is only available upon request through a private offer**.
 
-### On-Premise Pricing
-##### *Bottomline Volume pricing is only available upon request through a private offer*
+#### Discounted Pricing
+
 | Units | Discount % | Cost/Unit |
 |---|---|---|
 | 1 - 1000 | 0% | $4.68 |
@@ -29,32 +29,18 @@ The Mainframe Record and Replay solution has the capability of monitoring 3270/5
 | 20001 - 35000 | 79% | $0.96 |
 | 35001 - 50000 | 83% | $0.80 |
 | 50001 - 100000 | 90% | $0.47 |
-| 100000 + | Variable | Contact [partner.cfrm@bottomline.com](mailto:partner.cfrm@bottomline.com) for more information or private offers.
+| 100000+ | Variable | Contact [partner.cfrm@bottomline.com](mailto:partner.cfrm@bottomline.com) for more information or private offers. |
 
 ## Setup
+Once you have purchased Bottomline's Record and Replay, a representative will reach out to you shortly with a license key and instructions to set up your environment.
 
-Follow the step-by-step instructions below to install and configure this check for an Agent running on a host. 
+## Uninstallation
 
-### Prerequisites
-
-The following items are all required for this integration to run as intended:
-  - You must have the Datadog Agent installed and running.
-  - Access to the server running the Datadog Agent for installing Bottomline's Record and Replay and to modify the Datadog Agent configurations.
-  - A supported database (Oracle or Postgres).
-  - A windows desktop to install Bottomline's Enterprise Manager for configuring Record and Replay.
-
-
-### Setup
-
-If you have just purchased Bottomline's Record and Replay, a representative will reach out to your shortly with a license key and instructions to set up your environment.
-
-If you need to set up an integration so that data is shared between Datadog and Bottomline, [click here](https://github.com/nbk96f1/datadog/tree/main/Documentation).
+Once you've canceled your subscription in the Datadog Marketplace, Bottomline will reach out to confirm and disconnect your account.
 
 ## Support
-For support or feature requests, contact Bottomline through the following channels:
-
-- Support: partner.cfrm@bottomline.com
-- Sales: partner.cfrm@bottomline.com
+For support or feature requests, [contact Bottomline](mailto:partner.cfrm@bottomline.com).
 
 [1]: https://www.bottomline.com/
-
+[2]: https://www.bottomline.com/us
+[3]: /integrations/bottomline-recordandreplay
